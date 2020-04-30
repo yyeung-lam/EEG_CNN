@@ -1,2 +1,2 @@
-# MNE_Preprocessing
+# CNN Classification on EEG Data
  
